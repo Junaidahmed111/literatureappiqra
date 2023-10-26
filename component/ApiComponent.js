@@ -1,27 +1,27 @@
 import axios from "axios";
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import { Text, View } from "react-native";
 
 const ApiComponent = () => {
-	useEffect(() => {
-		// Define the API endpoint
-		const apiUrl = "http://139.59.177.72/api/books?page=1"; // Example API
-		// Make an API request
-		axios
-			.get(apiUrl)
-			.then((response) => {
-				console.log("API Response:", response.data);
-			})
-			.catch((error) => {
-				console.error("API Error:", error);
-			});
-	}, []);
+  const [searchableBooks, setSearchableBooks] = useState([]);
+  const [nonSearchableBooks, setNonSearchableBooks] = useState([]);
 
-	return (
-		<View>
-			<Text>Check the console for API response</Text>
-		</View>
-	);
+  useEffect(() => {
+    axios
+      .get('http://139.59.177.72/api/books?page=1')
+      .then((response) => {
+        const { data } = response.data;
+        const searchable = data.filter((book) => book.bookType === 'UNICODE');
+        const nonSearchable = data.filter((book) => book.bookType == 'PDF');
+        setSearchableBooks(searchable);
+        setNonSearchableBooks(nonSearchable);
+      })
+      .catch((error) => {
+        console.error('API Error:', error);
+      });
+       
+  }, []);
+  return data = [searchableBooks, nonSearchableBooks] ;
 };
 
-export default ApiComponent;
+export default ApiComponent;

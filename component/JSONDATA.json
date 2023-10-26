@@ -1,0 +1,263 @@
+{
+  "data": [
+    {
+      "_id": "6539094bcac98db6d3c39419",
+      "title": "Test Unicode",
+      "description": "",
+      "isPublished": true,
+      "author": {
+        "_id": "64f30022e1fb23f9c912eb60",
+        "name": "Dummy Author 1",
+        "__v": 0
+      },
+      "coverPhotoUri": "books/Test Unicode_1698236747399/Test Unicode.png",
+      "fileUri": "books/Test Unicode_1698236747399/Test Unicode.txt",
+      "chapters": [
+        "دیباچہ طبع اول",
+        "عرضِ ناشر",
+        "ہماری ذہنی غلامی اور اس کے اسباب",
+        "ہندستان میں اسلامی تہذیب کا انحطاط",
+        "دور جدید کی بیمار قومیں",
+        "انسانی قانون اور الٰہی قانون",
+        "مغربی تہذیب کی خود کشی",
+        "لارڈ لو تھین کا خطبہ",
+        "ترکی میں مشرق و مغرب کی کشمکش",
+        "عقلیت کا فریب (۱)",
+        "عقلیت کا فریب (۲)",
+        "تجدد کا پائے چوبیں",
+        "ہمارے نظام تعلیم کا بنیادی نقص",
+        "ملت کی تعمیر نو کا صحیح طریقہ",
+        "بغاوت کا ظہور",
+        "اجتماعی فساد",
+        "ایمان اور اطاعت",
+        "مسلمان کا حقیقی مفہوم",
+        "مسلمان کی طاقت کا اصلی منبع",
+        "کیش مرداں نہ کہ مذہب گوسفنداں",
+        "مسلمانوں کے لیے جدید تعلیمی پالیسی اور لائحہ عمل",
+        "مرض اور اس کا علاج۱؂"
+      ],
+      "bookType": "UNICODE",
+      "category": {
+        "_id": "64cb84505d33b2d3545fe5f8",
+        "name": "Ikhlakiyat",
+        "__v": 0
+      },
+      "tags": ["Islam"],
+      "averageRating": null,
+      "createdAt": "2023-10-25T12:25:47.715Z",
+      "updatedAt": "2023-10-25T12:25:47.715Z"
+    },
+    {
+      "_id": "6537f1b0e9b0f5ff0b36d0b4",
+      "title": "Haqeeqat e islam",
+      "description": "",
+      "isPublished": true,
+      "author": {
+        "_id": "64f30022e1fb23f9c912eb60",
+        "name": "Dummy Author 1",
+        "__v": 0
+      },
+      "coverPhotoUri": "books/Haqeeqat e islam_1698165168637/Haqeeqat e islam.png",
+      "fileUri": "books/Haqeeqat e islam_1698165168637/Haqeeqat e islam.pdf",
+      "chapters": [],
+      "bookType": "PDF",
+      "category": {
+        "_id": "64cb84505d33b2d3545fe5f8",
+        "name": "Ikhlakiyat",
+        "__v": 0
+      },
+      "tags": ["Islam"],
+      "averageRating": null,
+      "createdAt": "2023-10-24T16:32:48.709Z",
+      "updatedAt": "2023-10-24T16:32:48.709Z"
+    },
+    {
+      "_id": "6537f11af58cf66425453470",
+      "title": "Test PDF Upload",
+      "description": "",
+      "isPublished": true,
+      "author": {
+        "_id": "64cb865d4096ef378458b2fa",
+        "__v": 0,
+        "name": "Dummy Author 3"
+      },
+      "coverPhotoUri": "books/Test PDF Upload_1698165018563/Test PDF Upload.png",
+      "fileUri": "books/Test PDF Upload_1698165018563/Test PDF Upload.pdf",
+      "chapters": [],
+      "bookType": "PDF",
+      "category": {
+        "_id": "64cb84505d33b2d3545fe5f8",
+        "name": "Ikhlakiyat",
+        "__v": 0
+      },
+      "tags": ["Islam"],
+      "averageRating": null,
+      "createdAt": "2023-10-24T16:30:18.630Z",
+      "updatedAt": "2023-10-24T16:30:18.630Z"
+    },
+    {
+      "_id": "6510603143cdfcb7c3111e95",
+      "title": "Test",
+      "description": "",
+      "isPublished": true,
+      "author": {
+        "_id": "64cb865d4096ef378458b2fa",
+        "__v": 0,
+        "name": "Dummy Author 3"
+      },
+      "coverPhotoUri": "books/Test_1695572008221/Test.png",
+      "fileUri": "books/Test_1695572008221/Test.docx",
+      "chapters": [
+        "دیباچہ طبع اول",
+        "عرضِ ناشر",
+        "ہماری ذہنی غلامی اور اس کے اسباب",
+        "ہندستان میں اسلامی تہذیب کا انحطاط",
+        "دور جدید کی بیمار قومیں",
+        "انسانی قانون اور الٰہی قانون",
+        "مغربی تہذیب کی خود کشی",
+        "لارڈ لو تھین کا خطبہ",
+        "ترکی میں مشرق و مغرب کی کشمکش",
+        "عقلیت کا فریب (۱)",
+        "عقلیت کا فریب (۲)",
+        "تجدد کا پائے چوبیں",
+        "ہمارے نظام تعلیم کا بنیادی نقص",
+        "ملت کی تعمیر نو کا صحیح طریقہ",
+        "بغاوت کا ظہور",
+        "اجتماعی فساد",
+        "ایمان اور اطاعت",
+        "مسلمان کا حقیقی مفہوم",
+        "مسلمان کی طاقت کا اصلی منبع",
+        "کیش مرداں نہ کہ مذہب گوسفنداں",
+        "مسلمانوں کے لیے جدید تعلیمی پالیسی اور لائحہ عمل",
+        "مرض اور اس کا علاج۱؂"
+      ],
+      "bookType": "UNICODE",
+      "category": {
+        "_id": "64cb84505d33b2d3545fe5f8",
+        "name": "Ikhlakiyat",
+        "__v": 0
+      },
+      "tags": ["Islam"],
+      "averageRating": null,
+      "createdAt": "2023-09-24T16:13:37.112Z",
+      "updatedAt": "2023-09-24T16:13:37.112Z"
+    },
+    {
+      "_id": "650f4a99e832b2e0faa9194d",
+      "title": "Test Rating 2",
+      "description": "",
+      "isPublished": true,
+      "author": { "_id": "64fe7fde54ca4743bb69b301", "name": "arif", "__v": 0 },
+      "coverPhotoUri": "books/Test Rating 2_1695500953703/Test Rating 2.png",
+      "fileUri": "books/Test Rating 2_1695500953703/Test Rating 2.pdf",
+      "chapters": [],
+      "bookType": "PDF",
+      "category": {
+        "_id": "64f30031e1fb23f9c912eb64",
+        "name": "Dummy Category 1",
+        "__v": 0
+      },
+      "tags": ["None"],
+      "averageRating": 4,
+      "createdAt": "2023-09-23T20:29:13.872Z",
+      "updatedAt": "2023-09-23T20:41:58.034Z"
+    },
+    {
+      "_id": "650f45632e1a557c86a19bf2",
+      "title": "Test Ratings",
+      "description": "Test",
+      "isPublished": true,
+      "author": {
+        "_id": "64cb865d4096ef378458b2fa",
+        "__v": 0,
+        "name": "Dummy Author 3"
+      },
+      "coverPhotoUri": "books/Test Ratings_1695499618639/Test Ratings.png",
+      "fileUri": "books/Test Ratings_1695499618639/Test Ratings.pdf",
+      "chapters": [],
+      "bookType": "PDF",
+      "category": {
+        "_id": "64f30031e1fb23f9c912eb64",
+        "name": "Dummy Category 1",
+        "__v": 0
+      },
+      "tags": ["Done"],
+      "averageRating": 2,
+      "createdAt": "2023-09-23T20:06:59.142Z",
+      "updatedAt": "2023-09-23T20:41:19.693Z"
+    },
+    {
+      "_id": "6507111c5730102eca1d5053",
+      "title": "Testing",
+      "description": "",
+      "isPublished": true,
+      "author": {
+        "_id": "64cb865d4096ef378458b2fa",
+        "__v": 0,
+        "name": "Dummy Author 3"
+      },
+      "coverPhotoUri": "books/Testing_1694961948393/Testing.png",
+      "fileUri": "books/Testing_1694961948393/Testing.pdf",
+      "chapters": [],
+      "bookType": "PDF",
+      "category": {
+        "_id": "64cb84505d33b2d3545fe5f8",
+        "name": "Ikhlakiyat",
+        "__v": 0
+      },
+      "tags": ["Dummy", "Another"],
+      "averageRating": null,
+      "createdAt": "2023-09-17T14:45:48.591Z",
+      "updatedAt": "2023-09-17T14:46:01.647Z"
+    },
+    {
+      "_id": "6501ac5f96804e7936b133d7",
+      "title": "Test",
+      "description": "",
+      "isPublished": true,
+      "author": {
+        "_id": "64cb865d4096ef378458b2fa",
+        "__v": 0,
+        "name": "Dummy Author 3"
+      },
+      "coverPhotoUri": "books/Test_1694608479538/Test.png",
+      "fileUri": "books/Test_1694608479538/Test.pdf",
+      "chapters": [],
+      "bookType": "PDF",
+      "category": {
+        "_id": "64f30031e1fb23f9c912eb64",
+        "name": "Dummy Category 1",
+        "__v": 0
+      },
+      "tags": ["Test", "123", "testing"],
+      "averageRating": null,
+      "createdAt": "2023-09-13T12:34:39.653Z",
+      "updatedAt": "2023-09-13T12:41:12.733Z"
+    },
+    {
+      "_id": "64e64df4588981b51a21a6cd",
+      "title": "This is a test book",
+      "description": "Test",
+      "isPublished": true,
+      "author": {
+        "_id": "64cb865d4096ef378458b2fa",
+        "__v": 0,
+        "name": "Dummy Author 3"
+      },
+      "coverPhotoUri": "books/This is a test book_1692814836365/This is a test book.png",
+      "fileUri": "books/This is a test book_1692814836365/This is a test book.pdf",
+      "chapters": [],
+      "bookType": "PDF",
+      "category": {
+        "_id": "64cb84505d33b2d3545fe5f8",
+        "name": "Ikhlakiyat",
+        "__v": 0
+      },
+      "tags": ["Testing"],
+      "averageRating": null,
+      "createdAt": null,
+      "updatedAt": "2023-09-13T12:39:02.374Z"
+    }
+  ],
+  "metadata": { "pagesCount": 0, "docsCount": 9 }
+}

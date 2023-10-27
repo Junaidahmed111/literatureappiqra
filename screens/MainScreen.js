@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
     flex: 1,
     width: "100%",
     height: "100%",
-    paddingTop:20,
+    paddingTop:21,
   },
   firstConatiner: {
     height: "55%",
